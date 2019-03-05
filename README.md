@@ -1,4 +1,6 @@
 # TP_SVG
+Ce TP nous permet de mettre en pratique nos connaissance consternant le SGV :
+
 ![1](https://user-images.githubusercontent.com/46228917/53837769-a73c4c80-3f93-11e9-9971-56f5fa7b9b14.PNG)
 
 ![2](https://user-images.githubusercontent.com/46228917/53837771-a7d4e300-3f93-11e9-93bf-995d221de3ed.PNG)
