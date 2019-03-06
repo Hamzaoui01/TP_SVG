@@ -1,5 +1,5 @@
 # TP_SVG
-Ce TP nous permet de mettre en pratique nos connaissance consternant le SGV :
+Ce TP nous permet de mettre en pratique nos connaissance consernant le SGV :
 
 ![1](https://user-images.githubusercontent.com/46228917/53837769-a73c4c80-3f93-11e9-9971-56f5fa7b9b14.PNG)
 
