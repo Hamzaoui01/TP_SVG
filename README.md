@@ -24,11 +24,12 @@ Ce TP nous permet de mettre en pratique nos connaissance consernant le SGV :
 ![3](https://user-images.githubusercontent.com/46228917/53837773-a7d4e300-3f93-11e9-9954-8a9be54dc3b6.PNG)
 
 
-## Croisillon
+##  Astérie
 
 ![4](https://user-images.githubusercontent.com/46228917/53837774-a86d7980-3f93-11e9-800e-dcbfc3a3716f.PNG)
 
 
+## Croisillon
 ![5](https://user-images.githubusercontent.com/46228917/53837775-a86d7980-3f93-11e9-875a-33cb961c8c52.PNG)
 
 ## Carrelage
